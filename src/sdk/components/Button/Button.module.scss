@@ -1,0 +1,13 @@
+.btn {
+    background-image: linear-gradient(244deg, #7f49ff, #2450ff);
+    background-color: #ffffffe6;
+    color: #fff;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    font-weight: 400;
+    justify-content: center;
+}
+
+.btn:hover {
+    background-image: linear-gradient(255deg, #6c3ed9, #0f37d7) !important;
+}
